@@ -40,3 +40,12 @@ Earlier experiments remain available in [sota-alpha](https://github.com/School-o
 The project is in active development. The current implementation supports saved lessons, guided practice, quizzes, embodied teachers, and conversation during background exhibit creation. Natural live voice and a reviewed, reusable curriculum library are ongoing work. Available features and device validation vary by source checkpoint and packaged release.
 
 Bring a teaching idea, a reproducible bug, a research source, or feedback from trying a lesson. Use [Professor issues](https://github.com/School-of-the-Ancients/sota-professor/issues) for teaching and the School app, or [Matrix issues](https://github.com/School-of-the-Ancients/matrix-loading-operator/issues) for worlds, exhibits, and XR interaction. Check the repository's contribution and development instructions before making changes, and keep private learner records and credentials out of reports.
+
+## Reuse, attribution, and project rights
+
+Licensing is specific to each repository, version, and asset. Existing MIT and
+Creative Commons grants remain intact. Read the [licensing policy](../LICENSING.md)
+and [repository map](../REPOSITORIES.md) before reuse or commercial inquiries.
+These notices do not claim exclusive rights in ideas, third-party material, or
+all AI-generated output. Contact [the maintainer](https://github.com/thetopham)
+for a proposed commercial collaboration.
