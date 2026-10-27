@@ -1,9 +1,10 @@
 # Contributing to School of the Ancients repositories
 
-Start with the target repository's README, AGENTS.md, license, and rights notices.
-Use the [repository map](https://github.com/School-of-the-Ancients/.github/blob/main/REPOSITORIES.md)
-to distinguish current development from earlier prototypes. Discuss substantial
-work before submitting it; use the relevant repository's issues and draft PRs.
+Application repositories are private. Contact [the maintainer](https://github.com/thetopham)
+to discuss a contribution or access request before sending implementation work.
+If you have access, start with the target repository's README, AGENTS.md, license,
+and rights notices, and use its issues and draft PRs. The public
+[project map](REPOSITORIES.md) describes the major areas.
 
 ## Permission and attribution
 

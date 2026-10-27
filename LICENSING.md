@@ -20,11 +20,10 @@ platform permissions remain applicable.
 ## Direction for new development
 
 The owner has selected PolyForm Noncommercial 1.0.0 for new project-owned material
-in the current Matrix and Professor applications. Implementation is proposed in
-[Matrix #280](https://github.com/School-of-the-Ancients/matrix-loading-operator/pull/280) and
-[Professor #48](https://github.com/School-of-the-Ancients/sota-professor/pull/48).
-Those draft PRs are not evidence that the default branches or old releases have
-already changed. Read the LICENSE and notices at the exact revision you use.
+in the current Matrix and Professor applications. Application repositories are
+private; authorized recipients must read the LICENSE and notices at the exact
+revision supplied. This does not change the terms of older releases or imply
+that every file in a mixed package has the same license.
 
 PolyForm is source-available, not OSI-approved open source. Read its complete
 permitted-purpose provisions; some personal and institutional uses are allowed.

@@ -1,17 +1,17 @@
 # Support and project contact
 
-Current School development is in
-[sota-professor](https://github.com/School-of-the-Ancients/sota-professor);
-world creation and XR execution are in
-[matrix-loading-operator](https://github.com/School-of-the-Ancients/matrix-loading-operator).
-See the repository map before reporting a problem against an older experiment.
+Visit [schooloftheancients.com](https://schooloftheancients.com/) for the public
+demo, current status, and early-access updates. Application source and internal
+research are maintained in private repositories.
 
-Report ordinary bugs in the relevant repository with its revision, reproduction,
-expected result, and observed result. Remove private learner data and credentials.
-Security reports follow SECURITY.md rather than a public bug report.
+Use [this organization's public guidance repository](https://github.com/School-of-the-Ancients/.github/issues)
+for non-sensitive project questions. For source access, collaboration, licensing,
+or a private reporting channel, contact [the maintainer](https://github.com/thetopham).
+A request is not a promise of access, support, or a license. Public issues are not
+confidential; do not include private learner records, code you cannot share,
+credentials, or identifying room images. Security reports follow SECURITY.md.
 
-For commercial use outside the applicable license, attribution questions,
-permission evidence, or partnership proposals, contact
-[the maintainer](https://github.com/thetopham). Public issues are not confidential.
-No paid service, exclusive agreement, support SLA, or license is created by an
-inquiry or a response that does not explicitly grant it.
+Existing licenses for material already distributed remain valid. An access grant
+does not itself assign copyright or approve commercial redistribution. No paid
+service, exclusive agreement, support SLA, or additional license is created by
+an inquiry or response that does not explicitly grant it.
