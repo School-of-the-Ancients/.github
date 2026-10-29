@@ -22,7 +22,8 @@ can need correction.
 ## Development and reuse
 
 Application code, earlier prototypes, and internal research are maintained in
-private repositories. The website and this introduction remain public. Contact
+private repositories. The website and this introduction remain public.
+School of the Ancients LLC is the owner and rights holder. Contact
 [the maintainer](https://github.com/thetopham) for a collaboration or access request.
 
 Source access and commercial licensing are separate decisions. Existing valid

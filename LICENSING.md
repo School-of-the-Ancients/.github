@@ -1,7 +1,10 @@
 # Licensing and intellectual-property policy
 
-Reviewed October 27, 2026. This is repository guidance, not a copyright assignment,
-legal opinion, commercial contract, or organization-wide software license.
+Reviewed October 29, 2026. School of the Ancients LLC, a Colorado limited
+liability company formed October 28, 2026, is the owner and rights holder of
+first-party School of the Ancients project material. This is repository guidance,
+not a copyright assignment, legal opinion, commercial contract, or
+organization-wide software license.
 
 ## Use the terms for the material you actually received
 
@@ -19,11 +22,11 @@ platform permissions remain applicable.
 
 ## Direction for new development
 
-The owner has selected PolyForm Noncommercial 1.0.0 for new project-owned material
-in the current Matrix and Professor applications. Application repositories are
-private; authorized recipients must read the LICENSE and notices at the exact
-revision supplied. This does not change the terms of older releases or imply
-that every file in a mixed package has the same license.
+School of the Ancients LLC has selected PolyForm Noncommercial 1.0.0 for new
+project-owned material in the current Matrix and Professor applications.
+Application repositories are private; authorized recipients must read the LICENSE
+and notices at the exact revision supplied. This does not change the terms of
+older releases or imply that every file in a mixed package has the same license.
 
 PolyForm is source-available, not OSI-approved open source. Read its complete
 permitted-purpose provisions; some personal and institutional uses are allowed.
